@@ -35,7 +35,7 @@ Quit and restart iTerm.
 
 - Paste `/bin/zsh` in the Command textbox and restart iTerm2
 
-![](https://miro.medium.com/max/2000/1*IMi-1KtCS3UGmVQtJ1nLDw.png)
+![](default.png)
 
 ### 5. Install Fira Code font
 
@@ -50,6 +50,8 @@ Unzip FiraCode.zip and install all font files inside the unzipped folder to your
  - Change font to Fira Code
 
  - Make sure 'Use ligatures' checkbox is selected
+ 
+ ![](font.png)
 
 ### 6. Install Powerlevel10k theme
 
