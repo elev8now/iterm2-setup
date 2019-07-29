@@ -37,8 +37,6 @@ Quit and restart iTerm.
 
 ![](https://miro.medium.com/max/2000/1*IMi-1KtCS3UGmVQtJ1nLDw.png)
 
-Quit and restart iTerm.
-
 ### 5. Install Fira Code font
 
 Fira Code is a special monospace font that supports ligatures and special characters for web languages.
