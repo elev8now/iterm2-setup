@@ -35,7 +35,7 @@ Quit and restart iTerm.
 
 - Paste `/bin/zsh` in the Command textbox and restart iTerm2
 
-![](default.png)
+![](default-terminal.png)
 
 ### 5. Install Fira Code font
 
