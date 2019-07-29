@@ -43,12 +43,13 @@ Fira Code is a special monospace font that supports ligatures and special charac
 
 Unzip FiraCode.zip and install all font files inside the unzipped folder to your Mac.
 
-Quit and restart iTerm.
+ - Open iTerm2 preferences
+ 
  - Head to Profiles -> Text
 
  - Change font to Fira Code
 
- - Make sure the 'Use ligatures' checkbox is selected
+ - Make sure 'Use ligatures' checkbox is selected
 
 ### 6. Install Powerlevel10k theme
 
