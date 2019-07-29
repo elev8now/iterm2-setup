@@ -79,3 +79,6 @@ echo 'source ~/p10k-lean.zsh' >>! ~/.zshrc
 ```
 
 Quit and restart iTerm.
+
+### 8. Et voila!
+![](final.png)
